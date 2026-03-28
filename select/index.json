@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Cirrus",
+  "base_artist": "Bonobo",
+  "createdAt": "2026-03-28T14:52:04.494211Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Cirrus Minor",
+      "artist": "Pink Floyd",
+      "has_synced": true,
+      "path": "select/01_Cirrus_Minor_Pink_Floyd.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Nothing but You (Cirrus Remix)",
+      "artist": "Paul van Dyk",
+      "has_synced": false,
+      "path": "select/02_Nothing_but_You_(Cirrus_Remix)_Paul_van_Dyk.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Nothing But You (Cirrus Mix)",
+      "artist": "Paul van Dyk",
+      "has_synced": false,
+      "path": "select/03_Nothing_But_You_(Cirrus_Mix)_Paul_van_Dyk.txt"
+    }
+  ]
+}
